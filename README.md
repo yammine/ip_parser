@@ -1,4 +1,4 @@
-IpParser
+IP Parser
 ========
 
-** TODO: Add description **
+Building an IP Packet parser to learn pattern matching
